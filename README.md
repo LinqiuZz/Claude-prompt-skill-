@@ -116,7 +116,7 @@ claude-prompt-skills/
 | 复杂推理 | Chain of Thought、Tree of Thought |
 
 完整框架列表见 [references/Frameworks_Summary.md](references/Frameworks_Summary.md)。
-
+借鉴了https://github.com/chujianyun/skills框架加入到自己的skills
 ## 许可证
 
 MIT
